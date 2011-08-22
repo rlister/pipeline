@@ -1,0 +1,6 @@
+Usage: pipeline.rb [options] filename host1 [host2 [host3 [...]]]
+    -f, --fifo NAME                  Filename for fifo.
+    -o, --output FILENAME            Output filename.
+    -p, --port NUMBER                Port number for all netcats.
+    -l, --login LOGIN_NAME           Username for all ssh commands.
+    -h, --help                       Show this message.
